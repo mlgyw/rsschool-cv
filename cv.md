@@ -1,9 +1,9 @@
 # Kirill Gritsyk
 ___
 ## Contact information:
-__Discord:__ Grechka1337#3374
-__Phone:__ +375295727447
-__E-mail:__ kirya.gritsyk@mail.ru
+__Discord:__ Grechka1337#3374  
+__Phone:__ +375295727447  
+__E-mail:__ kirya.gritsyk@mail.ru  
 ___
 ## Briefly About Myself:
 Briefly about myself:
