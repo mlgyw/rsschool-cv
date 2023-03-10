@@ -1,0 +1,141 @@
+.flex-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.flex-element-rightHeader {
+	height: 25em;
+	width: 60%;
+	background-color: white;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.flex-element-leftHeader {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 25em;
+	width: 40%;
+	background-color: whitesmoke;
+}
+
+.picture1 {
+	border-radius: 20%;
+}
+
+.headerText {
+	font-size: 48px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.flex-element-leftAboutMe {
+	height: 8em;
+	width: 40%;
+	background-color: white;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.flex-element-rightAboutMe {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 8em;
+	width: 60%;
+	background-color: whitesmoke;
+}
+
+.aboutMe {
+	font-style: italic;
+	font-weight: 700;
+	font-size: 32px;
+}
+
+.aboutMeText {
+	font-style: italic;
+	font-weight: 700;
+	font-size: 16px;
+}
+
+.flex-element-rightSkils {
+	height: 10em;
+	width: 60%;
+	background-color: white;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.flex-element-leftSkils {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 10em;
+	width: 40%;
+	background-color: whitesmoke;
+}
+
+.Skills {
+	font-style: italic;
+	font-weight: 700;
+	font-size: 18px;
+	text-align: left;
+	margin: 0;
+}
+
+.flex-element-leftCode {
+	height: 12em;
+	width: 40%;
+	background-color: white;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.flex-element-rightCode {
+	display: flex;
+	align-items: center;
+	height: 12em;
+	width: 60%;
+	background-color: whitesmoke;
+}
+
+.divcode {
+	flex-direction: column;
+}
+
+.Code {
+	font-style: italic;
+	font-weight: 700;
+	font-size: 32px;
+	margin: 0;
+}
+
+.flex-element-leftEducation {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 26em;
+	width: 40%;
+	background-color: whitesmoke;
+}
+
+.flex-element-rightEducation {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 26em;
+	width: 60%;
+	background-color: white;
+}
+
+.certificate {
+	max-width: 50%;
+}
